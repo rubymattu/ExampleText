@@ -1,1 +1,1 @@
-## This is ISSUES EXAMPLE REPO.
+## This is ISSUES EXAMPLE repo.
