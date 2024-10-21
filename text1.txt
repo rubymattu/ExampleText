@@ -1,6 +1,0 @@
-This is some random file with some random text
-to practice the issues in github.
-Issues help to resolve some errors in the documents
-by giving the issues
-    a number which 
-    cannot be repeated.
